@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>登陆页面</title>
+    .search{
+    width
+    }
 </head>
 <body>
 <h2>登录</h2>
@@ -11,6 +14,15 @@
     <input type="password" name="password">
     <input type="submit" name="登录">
 </form>
+<div class="search">
+    <form action="" method="get" name="sou">
+        <input class="keyword" name="showkeycode" maxlength="50" value="输入搜索关键字"
+               onfocus="this.style.color='#999999';if (value=='输入搜索关键字'){value=''}"onblur="this.style.color='#999999';
+               if (value==''){value=='输入搜索关键字'}"style="color: rgb(153,153,153);"
+        >
+        <input type="submit" class="btn">
+    </form>
 
+</div>
 </body>
 </html>

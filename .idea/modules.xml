@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bookonline/bookonline.iml" filepath="$PROJECT_DIR$/bookonline/bookonline.iml" />
       <module fileurl="file://$PROJECT_DIR$/quickstart/quickstart.iml" filepath="$PROJECT_DIR$/quickstart/quickstart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web_study.iml" filepath="$PROJECT_DIR$/web_study.iml" />
     </modules>
   </component>
 </project>
